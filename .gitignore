@@ -107,8 +107,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Visual Studio
+.vs/livestock-registry-service/v16/.suo
+.vs/slnx.sqlite
+
 # Others
 lib/
 data/
-config
+config/
 package-lock.json

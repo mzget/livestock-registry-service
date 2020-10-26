@@ -1,6 +1,6 @@
 # livestock-registry-service
 
-> Refarm livestock registry service.
+> livestock registry service
 
 ## About
 
